@@ -28,4 +28,11 @@ https://drive.google.com/file/d/18hLsLLyxp2t0X80dGiSCsvQewfazi-Nr/view?usp=shari
 
 https://drive.google.com/file/d/1o5aIlk7EHWyDM5IxFMGmFtVbg6HTQm06/view?usp=sharing 
 
+### Conclusion
+Countries which have higher GDP are happier, but CPI has not obvious relationship with  happies.<br>
+With the increase in carbon emissions per capita, countries will gain higher happiness scores. However, after they reach the maximum score, more carbon emission will cause a decrease in the happiness score.<br>
+After analyzing the countries from 2015 to 2017, we conclude that countries which are happier have longer life expectancy.  People in happier countries are healthier.
+
+
+
 
